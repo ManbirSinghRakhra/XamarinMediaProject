@@ -1,0 +1,61 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia.iOS/obj/iPhone/Debug/device-builds/iphone10.1-13.2/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

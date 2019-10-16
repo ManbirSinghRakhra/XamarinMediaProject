@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D82ECA9E-0E09-4E60-9BF1-46899CF26764}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinPluginMedia/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinPluginMedia/MainPage.xaml.cs" Line="42" Column="1" />
+      <File FileName="XamarinPluginMedia/MainPage.xaml" Line="7" Column="58" />
+      <File FileName="../../.nuget/packages/xam.plugin.media/4.4.3-beta/readme.txt" />
+      <File FileName="XamarinPluginMedia.Android/MainActivity.cs" />
+      <File FileName="XamarinPluginMedia.iOS/AppDelegate.cs" />
+      <File FileName="XamarinPluginMedia.iOS/Main.cs" />
+      <File FileName="XamarinPluginMedia.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinPluginMedia" expanded="True">
+            <Node name="XamarinPluginMedia" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="XamarinPluginMedia.Android" expanded="True" />
+            <Node name="XamarinPluginMedia.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinPluginMedia.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.XamarinPluginMedia.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F9C3FC9C-F2C4-4B16-9A86-AFA20BCA39D0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinPluginMedia.UITests FirstBuild="True" />
+</Properties>

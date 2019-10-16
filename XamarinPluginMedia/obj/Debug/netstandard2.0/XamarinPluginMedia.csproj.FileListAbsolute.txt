@@ -1,0 +1,13 @@
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamarinPluginMedia.csprojAssemblyReference.cache
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamarinPluginMedia.AssemblyInfoInputs.cache
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamarinPluginMedia.AssemblyInfo.cs
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/bin/Debug/netstandard2.0/XamarinPluginMedia.deps.json
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/bin/Debug/netstandard2.0/XamarinPluginMedia.dll
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/bin/Debug/netstandard2.0/ref/XamarinPluginMedia.dll
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/bin/Debug/netstandard2.0/XamarinPluginMedia.pdb
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamarinPluginMedia.dll
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/ref/XamarinPluginMedia.dll
+/Users/skedulo/Projects/XamarinPluginMedia/XamarinPluginMedia/obj/Debug/netstandard2.0/XamarinPluginMedia.pdb
